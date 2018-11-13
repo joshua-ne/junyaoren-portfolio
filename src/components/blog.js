@@ -27,6 +27,8 @@ class Blog extends Component {
     if(this.state.activeTab === 0){
         return (
             <div>
+                <h3>TED Analysis 1: Liv Boeree: 3 lessons on decision making from a poker champion</h3>
+
                 <Player
                     playsInline
                     src="https://download.ted.com/talks/LivBoeree_2018U.mp4"
@@ -109,6 +111,7 @@ class Blog extends Component {
     } else if(this.state.activeTab === 4) {
         return (
             <div>
+                <h3>Multimedia Speech 1: Lightening Talk at Lab Day of Protocol Labs (08-10-2018)</h3>
                 <YouTube
                     videoId="KONGvS51cJM"
                     opts={this.opts}
