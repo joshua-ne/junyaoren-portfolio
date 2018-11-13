@@ -19,7 +19,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>Java | Python | Matlb | JavaScript | Angular | NodeJS | Express | MongoDB</p>
+          <p>Java | Python | Matlab | JavaScript | Angular | NodeJS | Express | MongoDB</p>
 
         <div className="social-links">
 
