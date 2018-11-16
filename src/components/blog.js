@@ -91,7 +91,7 @@ class Blog extends Component {
       return (
           <div>
 
-                  <h3>TED Analysis 1: Prosanta Chakrabarty: Four Billion Years of Evolution in Six Minutes</h3>
+                  <h3>TED Analysis 2: Prosanta Chakrabarty: Four Billion Years of Evolution in Six Minutes</h3>
 
                   <Player
                       playsInline
@@ -154,7 +154,7 @@ class Blog extends Component {
           </div>
 
       )
-    } else if(this.state.activeTab === 2) {
+    } else if(this.state.activeTab === 3) {
         return(
             <div>
                 <h1>todo</h1>
@@ -162,10 +162,63 @@ class Blog extends Component {
 
 
         )
-    } else if(this.state.activeTab === 3) {
+    } else if(this.state.activeTab === 2) {
       return (
         <div>
-            <h1>todo</h1>
+            <h3>TED Analysis 3: Marc Koska: 1.3M Reasons to Re-invent the syringe</h3>
+
+            <Player
+                playsInline
+                src="https://pc.tedcdn.com/talk/stream/2009G/Blank/MarcKoska_2009G-1500k.mp4"
+            />
+
+            <p><a className="external" href="https://www.ted.com/talks/marc_koska_the_devastating_toll_of_syringe_reuse"
+                  target="_blank" rel="noreferrer noopener">https://www.ted.com/talks/marc_koska_the_devastating_toll_of_syringe_reuse<span
+                className="screenreader-only">&nbsp;(Links to an external site.)</span><span
+                className="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."><span
+                className="screenreader-only">Links to an external site.</span></span></a></p>
+            <p>This talk, 1.3M Reasons to Re-invent the syringe, was given by Marc Koska. This is kind of an elevator
+                pitch, trying to promote his new invention, a newly designed syringe that would break when being reused
+                and thus prevent disease transmission from re-using.</p>
+            <p>Overall, I think this is a very good elevator pitch. Though it is less than 5 minutes long, it includes
+                everything people need to understand why and how this new invention would be useful.</p>
+            <p>The speaker started with a simple and direct topic: syringes are being reused and causing troubles. He
+                used very good comparisons of the infection and death caused by malaria and syringe reuse. This is a
+                very good way to draw the audience's&rsquo; attention and makes it much easier for us to have a basic
+                idea about the scale of the problem. Though it will be much better if he could offer the source of these
+                data, either in his speech or in the slides.</p>
+            <p>Following the numbers, the speaker showed us several examples about people getting infected by reused
+                syringes, including the kids in a picture. I think this is a very smart way to excite people&rsquo;s
+                empathy and really start to care about the issue. Later the speaker showed more photos and videos,
+                demonstrating that it is indeed a very serious and urgent problem to solve in various countries. By
+                using these visual aids, the speak was able to prove that the problem was ubiquitous and lots of
+                innocent children, who would be the future of the world were being hurt by this issue. &nbsp;</p>
+            <p>Lastly, the speaker got a chance to show everyone his product. In his demonstration, he proved that his
+                newly designed syringes were very easy to use, and they look exactly the same as classical syringes.
+                However, the new syringes would break when the users try to reuse it. I have to say, it is a very simple
+                modification, but it is very brilliant and really solve the problem. And by comparison, the speaker
+                showed us that the cost was also minimum and definitely worth it, considering how it can prevent
+                transmission of diseases.</p>
+            <p>&nbsp;</p>
+            <p><strong>Organization (10/10)</strong>:&nbsp;Very clear arrangement of the topics, first draw
+                people&rsquo;s attention by showing how serious the problem is, followed by situations where the
+                problems exist. Finally, he proposed a way (product) to solve the problem and proved its effectiveness.
+            </p>
+            <p><strong>Analysis (10/10):&nbsp;</strong>He analyzed the problem in very engaging and appropriate ways and
+                made his central ideas very clear and easy to follow.</p>
+            <p><strong>Language (10/10):</strong>&nbsp;Clear and accurate.</p>
+            <p><strong>Material (9/10):&nbsp;</strong>I really like the numbers, photos, and videos used by the speaker,
+                which totally did their jobs well. The materials presented are sufficient and properly distributed. The
+                only shortcoming was that the speaker failed to tell the source of the numbers and some of the
+                multimedia materials.</p>
+            <p><strong>Delivery (10/10):&nbsp;</strong>The speaker delivered the speech very well. He used very
+                appropriate gestures and body language, showing his confidence, his caring about the problem and the
+                people who were being affected by the problem. And those non-verbal languages matched with his voice and
+                verbal language well.</p>
+            <p><strong>Voice (10/10):&nbsp;</strong>The speaker&rsquo;s voice was pleasant, being calm but also caring,
+                which fit with the topic well. And he did great job controlling his volume and rate of his speech, to
+                match the content of his words.</p>
+
         </div>
       )
     } else if(this.state.activeTab === 4) {
