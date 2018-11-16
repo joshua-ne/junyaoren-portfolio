@@ -187,11 +187,11 @@ class Blog extends Component {
                 very good way to draw the audience's&rsquo; attention and makes it much easier for us to have a basic
                 idea about the scale of the problem. Though it will be much better if he could offer the source of these
                 data, either in his speech or in the slides.</p>
-            <p>Following the numbers, the speaker showed us several examples about people getting infected by reused
+            <p>Following the numbers, the speaker showed us several examples of people getting infected by reused
                 syringes, including the kids in a picture. I think this is a very smart way to excite people&rsquo;s
                 empathy and really start to care about the issue. Later the speaker showed more photos and videos,
                 demonstrating that it is indeed a very serious and urgent problem to solve in various countries. By
-                using these visual aids, the speak was able to prove that the problem was ubiquitous and lots of
+                using these visual aids, the speaker was able to prove that the problem was ubiquitous and lots of
                 innocent children, who would be the future of the world were being hurt by this issue. &nbsp;</p>
             <p>Lastly, the speaker got a chance to show everyone his product. In his demonstration, he proved that his
                 newly designed syringes were very easy to use, and they look exactly the same as classical syringes.
@@ -216,7 +216,7 @@ class Blog extends Component {
                 people who were being affected by the problem. And those non-verbal languages matched with his voice and
                 verbal language well.</p>
             <p><strong>Voice (10/10):&nbsp;</strong>The speaker&rsquo;s voice was pleasant, being calm but also caring,
-                which fit with the topic well. And he did great job controlling his volume and rate of his speech, to
+                which fit with the topic well. And he did a great job controlling his volume and rate of his speech, to
                 match the content of his words.</p>
 
         </div>
