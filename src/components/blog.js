@@ -90,7 +90,67 @@ class Blog extends Component {
     } else if(this.state.activeTab === 1) {
       return (
           <div>
-              <h1>todo</h1>
+
+                  <h3>TED Analysis 1: Prosanta Chakrabarty: Four Billion Years of Evolution in Six Minutes</h3>
+
+                  <Player
+                      playsInline
+                      src="https://download.ted.com/talks/ProsantaChakrabarty_2018U.mp4"
+                  />
+
+              <p><a className="external"
+                    href="https://www.ted.com/talks/prosanta_chakrabarty_four_billion_years_of_evolution_in_six_minutes/discussion#t-108761"
+                    target="_blank" rel="noreferrer noopener">https://www.ted.com/talks/prosanta_chakrabarty_four_billion_years_of_evolution_in_six_minutes/discussion#t-108761<span
+                  className="screenreader-only">&nbsp;(Links to an external site.)</span></a></p>
+              <p>This talk, Four Billion Years of Evolution in Six Minutes, was given by Prosanta Chakrabarty. I chose
+                  this one because evolution is also a topic of my great interest and I would like to see how someone
+                  could explain or offer new ideas about this topic in six minutes.</p>
+              <p>Overall, the presentation was pretty well-prepared with nice slides, which looked simple, neat, and
+                  good enough to illustrate the points the presenter was trying to make. And the idea that &ldquo;life
+                  does not evolve in a line and it does not end with us&rdquo; and &ldquo;understanding this will change
+                  us the way we treat other life and each other on earth&rdquo;, were indeed inspiring and
+                  think-provoking to some extent.</p>
+              <p>However, there are some points that make me believe it might not be a very effective talk.</p>
+              <p>First of all, the talk started with a question followed by a very confusing answer to it. Basically,
+                  the speaker argued that we are fish instead of monkeys that&rsquo;s why monkeys still exist. This
+                  logic seems ridiculous and does not stand well to me. Well, it is true that we all vertebrates,
+                  including monkeys and us of course, evolved from fish, that does NOT deny the fact that we, human
+                  beings, evolve from the monkey. And then the speaker started to claim that he taught
+                  the &ldquo;largest&rdquo; class about evolution in the United States and how should his students
+                  understand &ldquo;we are fish&rdquo;. This sounds like kind of bragging to me. Later I checked online
+                  about the speaker. He is an associate professor in Louisiana State University and
+                  his &ldquo;obsession&rdquo; with fish came from the fact that he did some research on fish, which,
+                  however, does not help to explain the point he is making and yet to be very distracting. To make
+                  things worse, this &ldquo;fish&rdquo; theory can be very misleading for those who do not already know
+                  evolution well: okay, if we came from fish, why are there still fish, just like the speaker asked
+                  about the monkey in the beginning? He was making the question more complicated instead of more simple
+                  by using the &ldquo;fish&rdquo; theory.</p>
+              <p>Later, he started to claim that &ldquo;most of us have been taught evolution wrong&rdquo;, which I
+                  think is a bad way to deliver new ideas. He could have said that he is offering a new way to look at
+                  evolution instead of judging most of the others &ldquo;wrong&rdquo;. And to make things worse, later
+                  in his talk, he did not actually offer significantly improving ways to really think about evolution
+                  differently, which raises questions to the qualification of this talk.</p>
+              <p>And another issue with this talk is that he failed to make his intention of his talk at the very
+                  beginning of the speech, leaving the audience wondering what on earth he is trying to say till the
+                  middle of the speech.</p>
+              <p>The voice of the speaker was kind of lack of enthusiasm and energy, might be a little bit too cool and
+                  calm.</p>
+              <p>On the good side, the speaker did a great job when he illustrates how evolution happens from a single
+                  cell organism from about 3 billion years ago (starting from 2:35 in the video). The animation of the
+                  slides was great and the speaker really made it easy to follow and understand.</p>
+              <p>In summary, I would rate the talk as follows:</p>
+              <p><strong>Organization (7/10)</strong>:&nbsp;Not very clear, maybe a very brief outline/introduction
+                  would help.</p>
+              <p><strong>Analysis (6/10)</strong>:&nbsp;Not really like the way speaker approached to the topic,
+                  especially the &ldquo;fish&rdquo; part, it&rsquo;s just distracting, confusing, and relatively
+                  irrelevant to the point.</p>
+              <p><strong>Language (9/10):&nbsp;</strong>The language in the talk was clear and accurate, though could be
+                  more vivid.</p>
+              <p><strong>Material (9/10):</strong>&nbsp;The speaker did good preparation and used very helpful visuals.
+                  However, he did not use much evidence or cite from sources of authority, which I think is important in
+                  a scientific talk.</p>
+              <p><strong>Delivery(10/10):&nbsp;</strong>At ease and confident</p>
+              <p><strong>Voice(8/10):</strong>&nbsp;Could be more enthusiastic and energetic.</p>
           </div>
 
       )
